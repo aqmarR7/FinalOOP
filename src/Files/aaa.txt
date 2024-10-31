@@ -1,0 +1,18 @@
+
+                <h3>Kung Pao Chicken</h3>
+                <img src="https://www.themealdb.com/images/media/meals/1525872624.jpg" alt="Kung Pao Chicken">
+                Ingredients and Measurements:
+                Sake - 2 tbs
+Soy Sauce - 2 tbs
+Sesame Seed Oil - 2 tbs
+Corn Flour - 2 tbs
+Water - 2 tbs
+Chicken - 500g
+Chilli Powder - 1 tbs
+Rice Vinegar - 1 tsp 
+Brown Sugar - 1 tbs
+Spring Onions - 4 Chopped
+Garlic Clove - 6 cloves
+Water Chestnut - 220g
+Peanuts - 100g 
+            

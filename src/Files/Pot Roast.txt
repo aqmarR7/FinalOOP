@@ -1,0 +1,16 @@
+Sedap
+                <h3>Beef Brisket Pot Roast</h3>
+                <img src="https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg" alt="Beef Brisket Pot Roast">
+                Ingredients and Measurements:
+                Beef Brisket - 4-5 pound
+Salt - Dash
+Onion - 3
+Garlic - 5 cloves
+Thyme - 1 Sprig
+Rosemary - 1 sprig 
+Bay Leaves - 4
+beef stock - 2 cups
+Carrots - 3 Large
+Mustard - 1 Tbsp
+Potatoes - 4 Mashed
+            

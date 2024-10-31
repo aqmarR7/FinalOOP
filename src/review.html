@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AR: Review Page</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo-container">
+                <a href="index.html"><img src="logo.jpg" alt="Logo" class="logo"></a>
+            </div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="mealPlanner.html">Meal Planner</a></li>
+                <li><a href="aboutUs.html">About Us</a></li>
+                <li><a href="review.html">Review</a></li> 
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>Review Section</h1>
+        <form id="reviewForm">
+            <label for="name">Your Name:</label>
+            <input type="text" id="username" required placeholder="Enter your name"><br>
+
+            <label for="rating">Rating:</label>
+            <div id="starRating">
+                <span class="star" data-value="1">&#9733;</span>
+                <span class="star" data-value="2">&#9733;</span>
+                <span class="star" data-value="3">&#9733;</span>
+                <span class="star" data-value="4">&#9733;</span>
+                <span class="star" data-value="5">&#9733;</span>
+            </div>
+            <input type="hidden" id="rating" name="rating" value="0" required>
+
+            <label for="review">Your Review:</label>
+            <textarea id="review" rows="5" required placeholder="Write your review here..."></textarea>
+
+            <button type="submit">Submit Review</button>
+        </form>
+
+        <p id="successMessage" style="color: green; display: none;">Thank you for your review!</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 AR Meal Application. All rights reserved.</p>
+    </footer>
+
+    <script src="review.js"></script>
+</body>
+</html>
